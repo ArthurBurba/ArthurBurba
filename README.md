@@ -19,7 +19,7 @@ such as infrastructure problems and public service complaints.
 Sistema web desenvolvido para permitir o registro e acompanhamento de denúncias
 relacionadas a problemas urbanos, como falhas de infraestrutura e serviços públicos.
 
-#### #### Main Features | Principais Funcionalidades
+#### Main Features | Principais Funcionalidades
 
 * User registration and authentication
 
