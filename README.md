@@ -19,14 +19,30 @@ such as infrastructure problems and public service complaints.
 Sistema web desenvolvido para permitir o registro e acompanhamento de denúncias
 relacionadas a problemas urbanos, como falhas de infraestrutura e serviços públicos.
 
-#### Main Features | Principais Funcionalidades
+#### #### Main Features | Principais Funcionalidades
 
-- User registration and authentication  
-- Submission of urban issue reports  
-- Database storage and management  
-- Administrative viewing system  
+* User registration and authentication
 
-→ [View Repository | Ver Repositório](LINK_AQUI)
+* Creation and publication of urban issue reports
+
+* Feed displaying reports from the community
+
+* Like and comment system for interaction between users
+
+* Database storage and management
+
+* Cadastro e autenticação de usuários
+
+* Criação e publicação de denúncias de problemas urbanos
+
+* Feed exibindo relatos da comunidade
+
+* Sistema de curtidas e comentários para interação entre usuários
+
+* Armazenamento e gerenciamento em banco de dados
+
+
+→ [View Repository | Ver Repositório](https://github.com/ArthurBurba/UrbanaFix)
 
 ---
 
@@ -39,7 +55,7 @@ relacionadas a problemas urbanos, como falhas de infraestrutura e serviços púb
 
 ## 🛠 Technologies | Tecnologias
 
-HTML • CSS • JavaScript • PHP • Python • SQL • VB.NET
+HTML • CSS • JavaScript • PHP • Python • SQL 
 
 ---
 
