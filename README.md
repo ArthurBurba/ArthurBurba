@@ -1,80 +1,75 @@
-# Hi, I'm Arthur 👋  
-### Computer Science Student | Developer in Training  
-#### Estudante de Ciência da Computação | Desenvolvedor em formação
+# Hi, I'm Arthur Burba 👋
 
-Computer Science student with a technical background in Systems Development.  
-Focused on web development and backend programming, building practical and functional applications.
+### Computer Science Student | Junior Developer & IT Support Technical
+#### Estudante de Ciência da Computação | Desenvolvedor Júnior & Suporte Técnico de TI
 
-Estudante de Ciência da Computação com formação técnica em Desenvolvimento de Sistemas, com foco em desenvolvimento web e backend.
-
----
-
-## 👨‍💻 Featured Project | Projeto em Destaque
-
-### UrbanaFix – Urban Issue Reporting System
-
-Web system developed to allow users to register and track urban issue reports,
-such as infrastructure problems and public service complaints.
-
-Sistema web desenvolvido para permitir o registro e acompanhamento de denúncias
-relacionadas a problemas urbanos, como falhas de infraestrutura e serviços públicos.
-
-#### Main Features | Principais Funcionalidades
-
-* User registration and authentication
-
-* Creation and publication of urban issue reports
-
-* Feed displaying reports from the community
-
-* Like and comment system for interaction between users
-
-* Database storage and management
-
-* Cadastro e autenticação de usuários
-
-* Criação e publicação de denúncias de problemas urbanos
-
-* Feed exibindo relatos da comunidade
-
-* Sistema de curtidas e comentários para interação entre usuários
-
-* Armazenamento e gerenciamento em banco de dados
-
-
-→ [View Repository | Ver Repositório](https://github.com/ArthurBurba/UrbanaFix)
+<p align="left">
+  <a href="https://www.linkedin.com/in/arthur-burba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:burbarthur@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/arthur.silva16_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
-## 🎥 Project Demonstrations | Demonstração
+### 👨‍💻 About Me | Sobre Mim
 
-- [UrbanaFix V1 – Initial Version](https://www.youtube.com/watch?v=LM78k_SIq9s)  
-- [UrbanaFix V2 – Improved Version](https://www.youtube.com/watch?v=BixcmcNhJHo)
+- 🎓 **Education:** Pursuing a B.S. in Computer Science & Technical Degree in Systems Development.
+- 🛠️ **Focus:** Python|Java Development (Front-end & Back-end), Database Management, and IT Technical Support.
+- 🌐 **Languages:** Native Portuguese | Fluent English (Cambridge English B2 First Certified).
+- 📍 **Location:** Indaiatuba, SP - Brazil.
+
+- 🎓 **Formação:** Cursando Bacharelado em Ciência da Computação e Técnico em Desenvolvimento de Sistemas.
+- 🛠️ **Foco:** Desenvolvimento com Python | Java (Front-end e Back-end), Banco de Dados e Suporte Técnico de TI.
+- 🌐 **Idiomas:** Português Nativo | Inglês Fluente (Certificado Cambridge B2 First).
+- 📍 **Localização:** Indaiatuba, SP.
 
 ---
 
-## 🛠 Technologies | Tecnologias
+## 🛠 Tech Stack & Tools | Tecnologias e Ferramentas
 
-HTML • CSS • JavaScript • PHP • Python • SQL 
+**Languages & Web:**
+`Python` • `JavaScript` • `HTML5` • `CSS3` • `Java` •  `VB.NET`
+
+**Databases:**
+`MySQL` • `SQL` (Data Modeling, Queries & Manipulation)
+
+**IT Support & Infrastructure:**
+`Hardware & Software Diagnosis` • `Windows Installation & Configuration` • `Troubleshooting`
+
+
 
 ---
 
-## 📫 Connect with Me | Contato
 
-[LinkedIn](https://www.linkedin.com/in/arthur-burba-a7a451289/)  
-[Instagram](https://www.instagram.com/arthur.silva16_/)
 
-<!--
-**ArthurBurba/ArthurBurba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Project | Projeto em Destaque
 
-Here are some ideas to get you started:
+### 🏙️ UrbanaFix – Urban Issue Reporting Platform
+*Plataforma Web de Conexão entre Clientes e Prestadores de Serviços Urbanos (TCC)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web system developed in a team to allow citizens to report, track, and interact with urban infrastructure problems in real-time.
+
+Sistema web desenvolvido em equipe para permitir o registro, acompanhamento e interação em tempo real de relatos sobre problemas urbanos e infraestrutura.
+
+#### Key Features | Principais Funcionalidades
+* 🔐 User authentication and profile management (Cadastro e autenticação de usuários e perfil).
+* 📍 Urban issue reporting with map & media integration (Publicação de denúncias com mapa e mídias).
+* 📰 Interactive community feed with likes and interaction (Feed com curtidas e engajamento).
+* 🌗 Dark / Light mode UI implementation (Suporte a Modo Escuro e Claro).
+* 🗄️ Relational database storage and management with MySQL (Gerenciamento de dados com MySQL).
+
+**Technologies used:** HTML5, CSS3, JavaScript, Python, MySQL, PHP.
+
+👉 [View Repository | Ver Repositório](https://github.com/ArthurBurba/UrbanaFix)
+
+#### 🎥 Project Demonstrations | Demonstrações em Vídeo
+- [UrbanaFix V1 – Initial Version Demo](https://www.youtube.com/watch?v=LM78k_SIq9s)
+- [UrbanaFix V2 – Full Platform Demo](https://www.youtube.com/watch?v=BixcmcNhJHo)
+
+---
+
+## 📫 Let's Connect! | Vamos nos Conectar!
+
+- 💼 **LinkedIn:** [arthur-burba](https://www.linkedin.com/in/arthur-burba)
+- 📧 **Email:** [burbarthur@gmail.com](mailto:burbarthur@gmail.com)
+- 📷 **Instagram:** [@arthur.silva16_](https://www.instagram.com/arthur.silva16_/)
